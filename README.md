@@ -1,3 +1,12 @@
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Build Status](https://travis-ci.org/your-username/your-repository.svg?branch=master)](https://travis-ci.org/your-username/your-repository)
+
+
+
+
 # Hi there, I'm Pankaj Rawat! 👋
 
 I'm not just a student; I'm someone who loves technology and coding, and I live in the beautiful hills of Nainital. My journey into the world of technology has been a thrilling adventure.
