@@ -1,8 +1,8 @@
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
-![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=awkward-py&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awkward-py)
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=awkward-py)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-[![Build Status](https://travis-ci.org/your-username/your-repository.svg?branch=master)](https://travis-ci.org/your-username/your-repository)
+[![Build Status](https://travis-ci.org/awkward-py/docs.svg?branch=master)](https://travis-ci.org/awkward-py/docs)
 
 
 
