@@ -68,4 +68,5 @@ Here are the amazing contributors to this project:
 - [![Prajwal Sharma](https://img.shields.io/badge/Prajwal%20Sharma-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/prajwalsharma)
 - [![Aman Singh](https://img.shields.io/badge/Aman%20Singh-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/amansingh9097)
 
-Let's create code that has the potential to make a positive impact on the world! 🌍
+
+Let's collaborate on crafting code that holds the power to create positive ripples across the world with awkwardpy! 🌍
