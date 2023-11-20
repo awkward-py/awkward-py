@@ -19,16 +19,17 @@ We're a group of passionate individuals who love open source and technology. Joi
 ![Location](https://img.shields.io/badge/Location-Nainital,%20Uttarakhand,%20India-green?style=for-the-badge)
 
 ## 🚀 What I Do
-I weave lines of code into digital magic and create solutions that make the world a better place, one project at a time.
+I craft enchanting spells of code, conjuring digital marvels and shaping solutions that contribute to making the world a better place—one project at a time. Occasionally, I also dabble in the art of video editing. 🌟✨
 
 ## 🎓 Education
 Currently pursuing my diploma in IT.
 
 ## 🌟 Passion
-Turning coffee into code and dreams into reality.
+
+I love playing with code, refining visuals through editing, and always exploring new things to keep the excitement alive! 🚀🎨✨
 
 ## 🔧 Tech Toolbox
-[![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,react,figma,firebase,git,github,gitlab,linux,mysql,nextjs,nodejs,powershell,stackoverflow,xd,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,react,figma,firebase,git,github,gitlab,linux,stackoverflow,flutter&perline=5)](https://skillicons.dev)
 
 ## 🌐 My Digital Abode
 [![awkwardpy.com](https://img.shields.io/badge/awkwardpy.com-%E2%9C%A8%20Explore%20My%20Digital%20Realm-blue?style=for-the-badge)](https://awkwardpy.com)
@@ -44,14 +45,11 @@ I'm not just about code; I'm all ears for great conversations and collaborations
 ## 🌠 Fun Fact
 When I'm not coding, you'll find me stargazing or hiking in the hills. Nature fuels my creativity.
 
-## 🚀 GitHub Stars
-If you're into open source, check out my GitHub profile, where I contribute to projects that make an impact.
-
 ## 📫 Email
 Feel free to drop me an email at awkwardpy@gmail.com. Let's build something awesome together!
 
 ## 🚀 Languages
-Here are the languages I work with, along with their logos:
+Here are the languages I work with,
 
 - ![HTML](https://img.shields.io/badge/HTML-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
