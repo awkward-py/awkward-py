@@ -5,7 +5,6 @@
 
 
 
-
 # This is Pankaj Rawat!
 
 I'm not just a student; I'm someone who loves space, technology and coding, and I live in the beautiful hills of Nainital. My journey into the world of technology has been a thrilling adventure.
@@ -29,7 +28,7 @@ Currently pursuing my diploma in IT.
 I love playing with code, refining visuals through editing, and always exploring new things to keep the excitement alive! 🚀🎨✨
 
 ## 🔧 Tech Toolbox
-[![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,react,figma,firebase,git,github,gitlab,linux,stackoverflow,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,figma,firebase,git,github,gitlab,linux,stackoverflow,&perline=5)](https://skillicons.dev)
 
 ## 🌐 My Digital Abode
 [![awkwardpy.com](https://img.shields.io/badge/awkwardpy.com-%E2%9C%A8%20Explore%20My%20Digital%20Realm-blue?style=for-the-badge)](https://awkwardpy.com)
@@ -58,7 +57,7 @@ Here are the languages I work with,
 - ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,c,cpp,py,java,js,bootstrap&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,js,bootstrap&perline=5)](https://skillicons.dev)
 
 ## 👥 Contributors
 Here are the amazing contributors to this project:
