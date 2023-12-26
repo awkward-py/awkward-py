@@ -1,6 +1,6 @@
 # This is Pankaj Rawat!
 
-I'm not just a student; I'm someone who loves space, technology and coding, and I live in the beautiful hills of Nainital. My journey into the world of technology has been a thrilling adventure.
+I'm not just a student, I'm someone who loves space, technology and coding xd. 
 
 ## awkwardpy Open Community
 We're a group of passionate individuals who love open source and technology. Join us on our journey to learn, collaborate, and contribute to exciting projects.
