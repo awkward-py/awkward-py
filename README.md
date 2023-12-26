@@ -1,11 +1,3 @@
-![Custom GitHub Stats](https://img.shields.io/badge/Custom%20GitHub%20Stats-Your%20Text-brightgreen)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awkward-py)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-[![Build Status](https://travis-ci.org/awkward-py/docs.svg?branch=master)](https://travis-ci.org/awkward-py/docs)
-
-
-
 # This is Pankaj Rawat!
 
 I'm not just a student; I'm someone who loves space, technology and coding, and I live in the beautiful hills of Nainital. My journey into the world of technology has been a thrilling adventure.
