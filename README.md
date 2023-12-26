@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnilsparsh&count_private=true&show_icons=true&show=stars,prs,contribs&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnilsparshE&awkward-py&count_private=true&show_icons=true&show=stars,prs,contribs=true&hide=username)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awkward-py)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 [![Build Status](https://travis-ci.org/awkward-py/docs.svg?branch=master)](https://travis-ci.org/awkward-py/docs)
