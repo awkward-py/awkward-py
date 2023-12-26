@@ -11,14 +11,14 @@ We're a group of passionate individuals who love open source and technology. Joi
 ![Location](https://img.shields.io/badge/Location-Nainital,%20Uttarakhand,%20India-green?style=for-the-badge)
 
 ## 🚀 What I Do
-I craft enchanting spells of code, conjuring digital marvels and shaping solutions that contribute to making the world a better place—one project at a time. Occasionally, I also dabble in the art of video editing. 🌟✨
+I make cool stuff with computer code and solve problems to make the world better. Sometimes, I also have fun editing videos. 🌟✨
 
 ## 🎓 Education
 Currently pursuing my diploma in IT.
 
 ## 🌟 Passion
 
-I love playing with code, refining visuals through editing, and always exploring new things to keep the excitement alive! 🚀🎨✨
+I like to have fun with computer code, make pictures look nice with editing, and always try new things to keep things interesting! 🚀🎨✨
 
 ## 🔧 Tech Toolbox
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,figma,firebase,git,github,gitlab,linux,stackoverflow,&perline=5)](https://skillicons.dev)
@@ -60,5 +60,4 @@ Here are the amazing contributors to this project:
 - [![Prajwal Sharma](https://img.shields.io/badge/Prajwal%20Sharma-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/prajwalsharma)
 - [![Aman Singh](https://img.shields.io/badge/Aman%20Singh-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/amansingh9097)
 
-
-Let's collaborate on crafting code that holds the power to create positive ripples across the world with awkwardpy! 🌍
+Let's have fun together and do some awesome things with coding and technology and collaborate on crafting code that holds the power to create positive ripples across the world with awkwardpy! 🌍
