@@ -2,11 +2,6 @@
 
 I'm not just a student, I'm someone who loves space, technology and coding xd. 
 
-## awkwardpy Open Community
-We're a group of passionate individuals who love open source and technology. Join us on our journey to learn, collaborate, and contribute to exciting projects.
-
-[![awkwardpy Open Community](https://img.shields.io/badge/awkwardpy%20Open%20Community-%E2%9C%A8%20Join%20Us-purple?style=for-the-badge)](https://github.com/awkwardpy/community)
-
 ## 🏡 Location
 ![Location](https://img.shields.io/badge/Location-Nainital,%20Uttarakhand,%20India-green?style=for-the-badge)
 
