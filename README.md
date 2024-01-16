@@ -47,7 +47,7 @@ Here are the languages I work with,
 - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 - ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%2381C0E3?style=flat&logo=framer&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,next.js,py,js,bootstrap,tailwindcss&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,nextjs,py,js,bootstrap,tailwindcss&perline=5)](https://skillicons.dev)
 
 
 
