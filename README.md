@@ -47,9 +47,8 @@ Here are the languages I work with,
 - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 - ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%2381C0E3?style=flat&logo=framer&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,js,bootstrap&perline=5)](https://skillicons.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c?style=flat&logo=tailwind-css&logoColor=38b2ac)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,next.js,py,js,bootstrap&perline=5)](https://skillicons.dev)
+
 
 
 ## 👥 Contributors
