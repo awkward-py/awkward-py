@@ -6,14 +6,14 @@ I'm not just a student, I'm someone who loves space, technology and coding xd.
 ![Location](https://img.shields.io/badge/Location-Nainital,%20Uttarakhand,%20India-green?style=for-the-badge)
 
 ## 🚀 What I Do
-I make cool stuff with computer code and solve problems to make the world better. Sometimes, I also have fun editing videos. 🌟✨
+I make cool stuff with computer code and solve problems. Sometimes maybe manytimes, I also have fun editing videos. 🌟✨
 
 ## 🎓 Education
 Currently pursuing my diploma in IT.
 
 ## 🌟 Passion
 
-I like to have fun with computer code, make pictures look nice with editing, and always try new things to keep things interesting! 🚀🎨✨
+I like to have fun with code, make pictures look niceeee with editing, and always try new things to keep things interesting! 🚀🎨✨
 
 ## 🔧 Tech Toolbox
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,figma,firebase,git,github,gitlab,linux,stackoverflow,&perline=5)](https://skillicons.dev)
@@ -30,7 +30,7 @@ I'm not just about code; I'm all ears for great conversations and collaborations
 - [![Facebook](https://img.shields.io/badge/Facebook-%40awkwardpy-blue?style=flat)](https://www.facebook.com/awkwardpy)
 
 ## 🌠 Fun Fact
-When I'm not coding, you'll find me stargazing or hiking in the hills. Nature fuels my creativity.
+When I'm not coding, you'll find me on Twitter and whatsApp lmao.
 
 ## 📫 Email
 Feel free to drop me an email at awkwardpy@gmail.com. Let's build something awesome together!
@@ -41,14 +41,16 @@ Here are the languages I work with,
 - ![HTML](https://img.shields.io/badge/HTML-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![image](https://github.com/awkward-py/awkward-py/assets/116781641/a3b12381-54a7-4a53-86ac-165baddc2050)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c?style=flat&logo=tailwind-css&logoColor=38b2ac)
 - ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=black)
-- ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
+- ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%2381C0E3?style=flat&logo=framer&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,js,bootstrap&perline=5)](https://skillicons.dev)
 
 ## 👥 Contributors
-Here are the amazing contributors to this project:
+Here are the amazing contributors and my freindsssssssss:
 
 - [![Yash Joshi](https://img.shields.io/badge/Yash%20Joshi-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/yashjoshi)
 - [![Pankaj Rawat](https://img.shields.io/badge/Pankaj%20Rawat-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/awkwardpy)
