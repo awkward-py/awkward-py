@@ -41,7 +41,7 @@ Here are the languages I work with,
 - ![HTML](https://img.shields.io/badge/HTML-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![image](https://github.com/awkward-py/awkward-py/assets/116781641/a3b12381-54a7-4a53-86ac-165baddc2050)
+- ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c?style=flat&logo=tailwind-css&logoColor=38b2ac)
 - ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
