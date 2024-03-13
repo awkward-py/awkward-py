@@ -2,19 +2,6 @@
 
 I'm not just a student, I'm someone who loves space, technology and coding xd. 
 
-## 🏡 Location
-![Location](https://img.shields.io/badge/Location-Nainital,%20Uttarakhand,%20India-green?style=for-the-badge)
-
-## 🚀 What I Do
-I make cool stuff with computer code and solve problems. Sometimes maybe manytimes, I also have fun editing videos. 🌟✨
-
-## 🎓 Education
-Currently pursuing my diploma in IT.
-
-## 🌟 Passion
-
-I like to have fun with code, make pictures look niceeee with editing, and always try new things to keep things interesting! 🚀🎨✨
-
 ## 🔧 Tech Toolbox
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,figma,firebase,git,github,gitlab,linux,stackoverflow,&perline=5)](https://skillicons.dev)
 
