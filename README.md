@@ -6,7 +6,7 @@ I'm not just a student, I'm someone who loves space, technology and coding xd.
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,figma,firebase,git,github,gitlab,linux,stackoverflow,&perline=5)](https://skillicons.dev)
 
 ## 🌐 My Digital Abode
-[![awkwardpy.com](https://img.shields.io/badge/awkwardpy.com-%E2%9C%A8%20Explore%20My%20Digital%20Realm-blue?style=for-the-badge)](https://awkwardpy.com)
+[![awkwardpy.com](https://img.shields.io/badge/awkwardpy.com-%E2%9C%A8%20Explore%20My%20Digital%20Realm-blue?style=for-the-badge)]([https://awkwardpy.com](https://awkwardpy-awkward-pys-projects.vercel.app/))
 
 ## 💬 Let's Connect
 I'm not just about code; I'm all ears for great conversations and collaborations. Reach out to me:
