@@ -3,7 +3,7 @@
 I'm not just a student, I'm someone who loves space, technology and coding xd. 
 
 ## 🔧 Tech Toolbox
-[![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,figma,firebase,git,github,gitlab,linux,stackoverflow,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,blender,bootstrap,eclipse,firebase,git,github,mongodb,linux,stackoverflow,&perline=5)](https://skillicons.dev)
 
 ## 🌐 My Digital Abode
 [![awkwardpy.com](https://img.shields.io/badge/awkwardpy.com-%E2%9C%A8%20Explore%20My%20Digital%20Realm-blue?style=for-the-badge)]([https://awkwardpy-awkward-pys-projects.vercel.app/])
