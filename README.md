@@ -38,13 +38,3 @@ Here are the languages I work with,
 
 
 
-
-## 👥 Contributors
-Here are the amazing contributors and my freindsssssssss:
-
-- [![Yash Joshi](https://img.shields.io/badge/Yash%20Joshi-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/yashjoshi)
-- [![Pankaj Rawat](https://img.shields.io/badge/Pankaj%20Rawat-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/awkwardpy)
-- [![Prajwal Sharma](https://img.shields.io/badge/Prajwal%20Sharma-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/prajwalsharma)
-- [![Aman Singh](https://img.shields.io/badge/Aman%20Singh-%E2%9C%A8%20Contributor-blue?style=flat)](https://github.com/amansingh9097)
-
-Let's have fun together and do some awesome things with coding and technology and collaborate on crafting code that holds the power to create positive ripples across the world with awkwardpy! 🌍
